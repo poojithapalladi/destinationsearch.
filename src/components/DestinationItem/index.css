@@ -1,0 +1,22 @@
+.place-details-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin: 10px;
+  border-radius: 8px;
+}
+.image {
+  height: 50%;
+  width: 50%;
+  margin: 10px;
+  border-radius: 8px;
+}
+.user-name {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
